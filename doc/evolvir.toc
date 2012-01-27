@@ -1,0 +1,9 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}ambule}{2}
+\contentsline {section}{\numberline {2}Dynamique \IeC {\'e}pid\IeC {\'e}miologique}{2}
+\contentsline {subsection}{\numberline {2.1}Mod\IeC {\'e}liser une \IeC {\'e}pid\IeC {\'e}mie avec \textit {Evolvir}: cas des contacts locaux}{2}
+\contentsline {subsection}{\numberline {2.2}Une grande ville : contacts globaux}{4}
+\contentsline {section}{\numberline {3}\IeC {\'E}volution de la virulence}{4}
+\contentsline {subsection}{\numberline {3.1}Un premier mod\IeC {\`e}le avec \textit {Evolvir}}{4}
+\contentsline {subsection}{\numberline {3.2}Confrontation \IeC {\`a} la r\IeC {\'e}alit\IeC {\'e} : introduction du virus de la myxomatose en Australie}{6}
+\contentsline {subsection}{\numberline {3.3}Compromis \IeC {\'e}volutif entre transmission et virulence}{6}
